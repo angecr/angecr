@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 -->
 ### About me
-I'm a Data scientist, and that is my repository for projects with python and other languages.
+I'm a Data science student and that is my repository for projects with python and other languages
 
 
 <!--
